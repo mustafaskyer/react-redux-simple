@@ -16,6 +16,6 @@
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4"
+    "webpack-dev-server": "^3.1.14"
   }
 }
